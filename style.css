@@ -1,0 +1,251 @@
+body{
+    margin: 0px;
+}
+.maindiv{
+    background-color: #3399ff;
+    height: 50px;
+    position: fixed;
+    width: 100%;
+}
+.imgdiv{
+    float: left;
+    padding-top:10px;
+    padding-left: 150px;
+}
+a{
+    padding-left: 40px;
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+}
+.mynav{
+    padding-left: 750px;
+    padding-top:15px;
+}
+.myimg{
+    padding-top: 50px;
+    height: 800px;
+    background-color: #3399ff;
+}
+.image{
+float: left;
+margin-left: 150px;
+}
+.text{
+float: right;
+margin-top: 230px;
+margin-right: 220px;
+color: white;
+line-height: 12px;
+}
+.name{
+    font-size: 35px;
+}
+.hi{
+    font-size: 35px;
+}
+.skills{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 40px;
+}
+.web{
+    display: inline-block;
+    margin-left: 250px;
+    margin-top: 20px;
+}
+.prog{
+    display: inline-block;
+    margin-left: 420px;
+    margin-top: 20px;
+}
+.os{
+    display: inline-block;
+    margin-left: 250px;
+    margin-top: 30px;
+}
+.db{
+    display: inline-block;
+    margin-left: 190px;
+    margin-top: 30px;
+}
+.Qualifications{
+    background-color: #f9f9ff;
+    height: 900px;
+    margin-top: -100px;
+}
+.skill{
+    padding-top: 100px;
+}
+h3{
+    margin-top: 50px;
+}
+.std{
+    text-align: center;
+}
+.myhr{
+    margin-left: 300px;
+    margin-right: 300px;
+    color: #f9f9ff;
+}
+.myfont{
+    font-family: "Poppins", sans-serif;
+}
+.project{
+    height: 450px;
+}
+.proj{
+    padding-top: -5px;
+}
+.project1{
+   height: 480px;
+}
+.projimg1{
+    float: left;
+    margin-top: 50px;
+    margin-left: 117px;
+    margin-right: 50px;
+    transition: 2ms;
+}
+.projimg1:hover{
+    box-shadow: 0px 0px 6px 4px;
+}
+.projdesc1{
+    margin-top: 160px;
+    margin-right: 117px;
+    text-align: justify;
+
+}
+.project2{
+    height: 480px;
+}
+.projdesc2{
+  width: 500px;
+  float: left;
+  padding-left: 117px;
+  padding-top: 55px;
+}
+.projimg2:hover{
+    box-shadow: 0px 0px 6px 4px;
+}
+.projimg2{
+   margin-top: -15px;
+   float: left;
+   margin-left: 55px;
+   width: 555px;
+   margin-right: 120px;
+}
+.contactdiv{
+    height: 500px;
+    background-color: #f9f9ff;
+    
+}
+.headtag{
+    margin-top: 480px;
+    padding-top: 50px;
+    text-align: center;
+    font-size: 32px;
+}
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  .inputdiv {
+    border-radius: 5px;
+    padding: 20px;
+    width: 500px;
+    padding-left: 100px;
+    float: left;
+  }
+  textarea {
+    width: 100%;
+    height: 158px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    resize: none;
+  }
+.textareadiv{
+    float: right;
+    margin-right: 150px;
+    margin-top: 25px;
+    width: 550px;
+}
+.button4 {
+    border-radius: 40px;
+    margin-top: 20px;
+}
+.button {
+    background-color: #3399ff; 
+    border: none;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  .buttondiv{
+    margin-top: 250px;
+  }
+  .Tools{
+   margin-top: 20px;
+   background-color: rgb(247, 243, 243);
+   height: 670px;
+  }
+  .tools-title{
+    padding-top: 100px;
+  }
+  .common{
+    padding-top: 10px;
+  }
+  .textcom1{
+    margin-left: 905px;
+  }
+  .textcom2{
+    margin-left: 927px;
+  }
+  .textcom3{
+    margin-left: 880px;
+  }
+  .textcom4{
+    margin-left: 826px;
+  }
+  .textcom5{
+    margin-left: 880px;
+  }
+  .common1{
+    height: 14px;
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 40px;
+    width: 600px;
+    margin-left: 400px;
+  }
+  .common2{
+    height: 10px;
+    background-color: #3399ff;
+    border-radius: 40px;
+    margin: 2px;
+  }
+  .com2{ 
+    margin-right: 130px;
+}
+.item2{
+    margin-right: 200px;
+}
+  .photoshop2{
+    margin-right:290px;
+}
+  .vscode2{
+    margin-right: 80px;
+}
